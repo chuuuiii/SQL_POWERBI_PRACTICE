@@ -136,7 +136,7 @@ The cleaned dataset was imported into Power BI to create an HR Analytics Dashboa
 
 # Dashboard Preview
 ```
-images/HR.JPG
+HR.JPG
 ```
 ---
 
