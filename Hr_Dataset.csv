@@ -1,0 +1,36 @@
+Employee_ID,Employee_Name,Department,Position,Hire_Date,Salary,Employment_Status,Manager_Name,City,Performance_Rating
+EMP-0001,Alice Reyes,Operations,Analyst,27/07/2022,34116,Active,NULL,Manila,3
+EMP-0002,Alice Reyes,IT,Manager,08/07/2019,63751,Inactive,John Doe,Quezon City,NULL
+EMP-0003,Mark Santos,HR,Analyst,28/01/2018,115949,Active,John Doe,NULL,2
+EMP-0004,Juan Cruz,IT,Specialist,NULL,NULL,Active,Ana Cruz,Davao,5
+EMP-0005,NULL,Marketing,Developer,NULL,NULL,Active,Ben Torres,NULL,5
+EMP-0006,NULL,NULL,Developer,15/09/2022,24173,Active,Ben Torres,NULL,3
+EMP-0008,Maria Lopez,HR,Analyst,28/01/2022,66126,Active,NULL,Manila,NULL
+EMP-0010,NULL,IT,Analyst,NULL,NULL,On Leave,Ana Cruz,Quezon City,NULL
+EMP-0012,NULL,HR,Developer,14/07/2022,NULL,Active,John Doe,Manila,3
+EMP-0014,Alice Reyes,HR,Developer,08/06/2021,NULL,Active,Ana Cruz,Cebu,5
+EMP-0016,Alice Reyes,NULL,Analyst,22/01/2023,76231,Inactive,NULL,Davao,NULL
+EMP-0018,Maria Lopez,Marketing,Specialist,NULL,25639,Inactive,NULL,Cebu,NULL
+EMP-0019,Alice Reyes,Marketing,Specialist,01/05/2024,NULL,Active,Ana Cruz,Manila,5
+EMP-0020,Juan Cruz,Finance,Coordinator,NULL,NULL,NULL,Ben Torres,Davao,4
+EMP-0021,Maria Lopez,Finance,Developer,NULL,NULL,On Leave,NULL,Manila,NULL
+EMP-0023,Juan Cruz,HR,Analyst,NULL,54796,NULL,Ben Torres,Davao,1
+EMP-0024,Kevin Tan,HR,Specialist,NULL,NULL,Active,NULL,Quezon City,3
+EMP-0025,Mark Santos,NULL,Developer,22/08/2021,NULL,Active,NULL,Manila,3
+EMP-0026,Maria Lopez,NULL,Developer,13/06/2024,64194,Inactive,John Doe,Manila,4
+EMP-0027,NULL,Finance,Coordinator,01/01/2024,91029,On Leave,Ana Cruz,Cebu,5
+EMP-0029,Mark Santos,Operations,Specialist,NULL,66874,NULL,John Doe,Quezon City,NULL
+EMP-0030,Juan Cruz,Marketing,Analyst,NULL,120120,On Leave,Ben Torres,Quezon City,2
+EMP-0037,Mark Santos,Finance,Analyst,28/02/2023,92325,Active,NULL,Davao,3
+EMP-0043,Maria Lopez,IT,Analyst,03/03/2024,141212,On Leave,Jane Smith,Cebu,5
+EMP-0048,Alice Reyes,Finance,Manager,06/02/2022,33213,On Leave,John Doe,Manila,3
+EMP-0050,Mark Santos,IT,Specialist,NULL,145402,Active,John Doe,Manila,1
+EMP-0059,NULL,Operations,Specialist,11/08/2022,89928,Active,NULL,Manila,NULL
+EMP-0061,Kevin Tan,IT,Manager,24/11/2019,69138,Active,Ana Cruz,Quezon City,NULL
+EMP-0081,Kevin Tan,Finance,Developer,NULL,125906,NULL,Ben Torres,Manila,1
+EMP-0083,Juan Cruz,NULL,Specialist,NULL,NULL,Inactive,NULL,Manila,1
+EMP-0084,Kevin Tan,Marketing,Developer,07/01/2023,NULL,NULL,Jane Smith,Davao,1
+EMP-0085,Mark Santos,Marketing,Analyst,24/11/2021,NULL,Active,Jane Smith,Manila,5
+EMP-0112,Juan Cruz,Operations,Manager,19/11/2022,NULL,Active,Jane Smith,Manila,1
+EMP-0135,Kevin Tan,Operations,Specialist,17/08/2018,NULL,Inactive,John Doe,Manila,3
+EMP-0156,Kevin Tan,NULL,Analyst,27/01/2021,36279,Active,Ana Cruz,Cebu,NULL
